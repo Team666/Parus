@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <Company></Company>
+    <Authors>Team 666</Authors>
+    <Description />
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Team666/Parus/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/Team666/Parus</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
