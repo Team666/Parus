@@ -107,6 +107,7 @@
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MediaPlayerFactory.cs" />
     <Compile Include="NowPlayingList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UwpEngine.cs" />
