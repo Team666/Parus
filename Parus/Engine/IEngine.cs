@@ -5,7 +5,6 @@ using System.Numerics;
 using System.Runtime.Versioning;
 using System.Text;
 using System.Threading.Tasks;
-using Windows.Media.Playback;
 
 namespace Parus.Core
 {
