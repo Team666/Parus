@@ -125,10 +125,6 @@
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Parus.Core.UwpEngine\Parus.Core.UwpEngine.csproj">
-      <Project>{d2ea278d-7e8b-485a-8865-1f1b543958dd}</Project>
-      <Name>Parus.Core.UwpEngine</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Parus\Parus.csproj">
       <Project>{4b6892d0-ecce-48f8-84a5-2527e5e16109}</Project>
       <Name>Parus</Name>
